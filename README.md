@@ -4,7 +4,7 @@
 
 To install the project, follow these steps:
 
-1. Clone the repository to your local machine using the command: `git clone <https://github.com/nitinjinagam/Flight-Delay-Prediction>`
+1. Clone the repository to your local machine using the command: `git clone <https://github.com/nitinjinagam/Flight-Delay-Prediction-Using-AI>`
 2. Install all dependencies by running: `pip install skfuzz` `pip install numpy` `pip install beautifulsoup4`
 3. Run the python files in the main branch.
 
